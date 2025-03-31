@@ -14,7 +14,7 @@ A simple, fast, and intuitive way to discover movies! 🚀
 
 ---
 ## 🔗 Live Demo
-👉 flick-box.vercel.app
+👉 [FickBox](flick-box.vercel.app)
 
 ---
 ## 📸 Screenshots
